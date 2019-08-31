@@ -17,5 +17,5 @@ Code Sample
 =====================
 |Name|Description|Category|Language|
 |-------|-----------|--------|-----|
-|Crunchbase Search CSV Exporter|Saves CB search results as CSV for Pro Trial members who can not access the built in CSV export functionality.|Web scraping|Python|
+|Crunchbase Search CSV Exporter|Saves CB search results as CSV for Pro Trial members who can not access the built in CSV export functionality.|Command line utility, web scraping|Python|
 |University Housing Forum Scraper|Scrapes forum for new posts and saves post content to file. Scraper can be scheduled to run periodically with crontab and the results emailed.|Web scraping|Python|
