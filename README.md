@@ -17,6 +17,7 @@ Code Sample
 =====================
 |Name|Description|Category|Language|
 |-------|-----------|--------|-----|
+|Exec After VPN|Dockerized solution to execute arbitrary Python or Bash scripts after successful NordVPN connection.|Misc|Bash, Python|
 |Crunchbase Search CSV Exporter|Saves CB search results as CSV for Pro Trial members who can not access the built in CSV export functionality.|Command line utility, web scraping|Python|
 |University Housing Forum Scraper|Scrapes forum for new posts and saves post content to file. Scraper can be scheduled to run periodically with crontab and the results emailed.|Web scraping|Python|
 |PlugY Save Monitor|Prevent Diablo II mod PlugY from corrupting saved games through automated interval backup and restore.|Scripting|Python|
