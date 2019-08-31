@@ -10,7 +10,7 @@ Data Science Portfolio
 |NBA Player Position Prediction|Building our own NBA player position dataset and predicting player positions from performance data.|Data scraping & cleaning. EDA. Data modeling. Predict service deployment|XGBoost, Kernel SVM, DBScan, Logistic Regression, Random Forest, PCA, Decision Tree|Pandas, Plotly, SQLAlchemy, Docker|
 |SEC Filings Database|A fully automated and configurable solution to download & clean SEC filings before storing it in a Posgresql database. Fillings are then indexed to enable full text search with millisecond query time.|DB schema design. Merging data from multiple sources. Cleaning. Loading.|ETL only|PostgreSQL, SQLAlchemy, Docker, Pandas|
 |YYC RealAlchemy|A powerful web app for Calgary realtors that normalizes historical transaction prices to make transactions more comparable. It's power lies in its unique ability to construct custom price index from user supplied transactions data. Further provides trend analysis and visualization.|N/A|N/A|HTML/CSS/JS, Flask, Plotly.js, Heroku, Google Maps JS API, Pandas|
-|Quant Trading Project|Formulatig and testing strategies for US small cap stocks under $500M market cap. (In use, details not published atm)|Strategy identification. ETL. EDA. Predict. Backtesting & hypothesis testing. Risk management / position sizing|Ensembled models, XGBoost, Logistic regression, Random Forest, OLS|Linux|
+|Quant Trading Project|Formulatig and testing strategies for US small cap stocks under $500M market cap. (In use, details not published atm)|Strategy identification. ETL. EDA. Predict. Backtesting & hypothesis testing. Risk management / position sizing|Ensembled models, XGBoost, Logistic regression, Random Forest, OLS etc...|Linux|
 
 
 Code Sample
