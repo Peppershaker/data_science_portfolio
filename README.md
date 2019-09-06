@@ -8,7 +8,7 @@ Loren Ipsum
 |<a href="https://github.com/Peppershaker/ds_project_turning_around_polish_grocer">Polish Grocer</a>|Assessing strategic alternatives for repositioning and operational improvements via recommender system|Market segmentation & trend analysis, key success factors & decision criteria. EDA. Financial analysis. Operational analysis. Risks, mitigation & execution plan.|Recommender systems|Pandas, Docker, Flask, Bash etc...|
 |<a href="https://github.com/Peppershaker/Predicting-NBA-Player-Position">NBA Player Position Prediction</a>|Colleting NBA player data and predicting player positions.|Data scraping & cleaning. EDA. Data modeling. Predict service deployment.|XGBoost, Kernel SVM, DBScan, Logistic Regression, Random Forest, PCA, Decision Tree|Unit testing. Pandas, Plotly, SQLAlchemy, Docker.|
 |<a href="https://github.com/Peppershaker/sec_dl">SEC Filings Database</a>|Batteries included solution for downloading SEC filings in bulk that also supports milisecond scale full text search.|DB schema design. Merging data from multiple sources. Cleaning. Loading.|ETL only|PostgreSQL, SQLAlchemy, Docker, Pandas|
-|<a href="http://www.realalchemy.ca">YYC RealAlchemy</a>|Web app that supercharges realestate precedent transactions analysis through data anlytics and visualization.|N/A|N/A|HTML/CSS/JS, Flask, Plotly.js, Heroku, Google Maps JS API, Pandas|
+|<a href="https://github.com/Peppershaker/yyc_housing_adjust">YYC RealAlchemy Repo</a></br><a href="http://www.realalchemy.ca">Live Site</a>|Web app that supercharges realestate precedent transactions analysis through data anlytics and visualization.|N/A|N/A|HTML/CSS/JS, Flask, Plotly.js, Heroku, Google Maps JS API, Pandas|
 
 &nbsp;
 
