@@ -16,7 +16,7 @@
 ### Closed Source Data Science Projects
 |Project|Description|Sections|ML|Tech|
 |:------|:----------|:-------|:-------|:-----------|
-|Quant Trading Project|Strategy identification. ETL. EDA. Predict. Backtesting / hypothesis testing. Risk management / position sizing.|Strategy identification. ETL. EDA. Predict. Backtesting & hypothesis testing. Risk management / position sizing|Ensembled models, XGBoost, Logistic regression, Random Forest, OLS etc...|Linux, PostgreSQL, SQLAlchemy, Pandas|
+|Quant Trading Project|Long only strategies targeting small cap stocks.|Strategy identification. ETL. EDA. Predict. Backtesting / hypothesis testing. Risk management / position sizing|Ensembled models, XGBoost, Logistic regression, Random Forest, OLS etc...|Linux, PostgreSQL, SQLAlchemy, Pandas|
 
 &nbsp;
 
