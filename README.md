@@ -1,6 +1,7 @@
-Brief Intro
-=====================
-Loren Ipsum
+## Brief Intro 
+- 🥳 🥳 Thanks for looking! 🥳 🥳 
+- All projects are unique & original
+- Data collection from scratch for most projects
 
 ### Open Source Data Science Projects
 |Project|Description|Sections|ML|Tech|
