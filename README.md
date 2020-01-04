@@ -20,7 +20,7 @@
 
 &nbsp;
 
-### Other Code Sample
+### Python & Bash Scripting
 |Name|Description|Category|Language|
 |-------|-----------|--------|-----|
 |<a href="https://github.com/Peppershaker/exec_after_vpn">Exec After VPN</a>|Dockerized solution to execute arbitrary scripts after successful VPN connection.|Command line utility, scripting|Bash, Python|
