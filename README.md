@@ -25,5 +25,4 @@
 |-------|-----------|--------|-----|
 |<a href="https://github.com/Peppershaker/exec_after_vpn">Exec After VPN</a>|Dockerized solution to execute arbitrary scripts after successful VPN connection.|Command line utility, scripting|Bash, Python|
 |<a href="https://github.com/Peppershaker/crunchbase_csv_exporter/">Crunchbase Search CSV Exporter</a>|Saves CB search results as CSV for Pro Trial members who can not access the built in CSV export functionality.|Command line utility, web scraping|Python|
-|<a href="https://github.com/Peppershaker/uwcssa_scraper">University Housing Forum Scraper</a>|Provides a command line interface to scrape a school housing forum.|Web scraping|Python|
 |<a href="https://github.com/Peppershaker/PlugY_Save_Monitor/">PlugY Save Monitor</a>|Prevent Diablo 2 save-game file corruption through interval backup and restore.|Scripting|Python|
